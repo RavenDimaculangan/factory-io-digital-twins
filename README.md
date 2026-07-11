@@ -11,3 +11,7 @@
 ### 3. Advanced Material Weighing & Diverting Cells
 * **Sorting by Weight:** Modeled an industrial check-weigher system integrating an analog scale. The control loop reads raw weight telemetry, classifies items based on precise threshold data ranges, and routes rejects via separate reject arms.
 * **Pop-Up Sorter Array:** Engineered a complex, multi-lane logistical routing matrix utilizing specialized pop-up wheel sorters. This system handles intricate sorting timing loops to divert high-speed, continuous package streams based on digital tracking flags.
+
+## Video Demonstrations & Simulation Playback
+To view live runtime recordings of these automated cells executing logic in real-time, visit the centralized portfolio vault:
+👉 **[Watch Live Project Simulation Videos](https://drive.google.com/drive/folders/1LX5n3qPfqe00K4KUQTa8ruhs8AlEMvZE?usp=drive_link)**
