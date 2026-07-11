@@ -14,4 +14,4 @@
 
 ## Video Demonstrations & Simulation Playback
 To view live runtime recordings of these automated cells executing logic in real-time, visit the centralized portfolio vault:
-👉 **[Watch Live Project Simulation Videos](https://drive.google.com/drive/folders/1LX5n3qPfqe00K4KUQTa8ruhs8AlEMvZE?usp=drive_link)**
+-->**[Watch Live Project Simulation Videos](https://drive.google.com/drive/folders/1LX5n3qPfqe00K4KUQTa8ruhs8AlEMvZE?usp=drive_link)**
