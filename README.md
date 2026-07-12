@@ -3,7 +3,7 @@
 ## Project Overview
 This repository focuses on my competencies in **Virtual Commissioning, Digital Twin development, and Industrial Plant Simulation** using **Factory I/O**. 
 
-By building real-time, physics-based 3D industrial manufacturing and logistical environments, I bridge the gap between abstract control logic and physical factory floors. This portfolio demonstrates my ability to design, map, and validate complex automation sequences—such as synchronized robotic assembly, multi-lane parcel sorting, and analog check-weighing arrays—under realistic operational stresses before deployment to physical hardware.
+By building real-time, physics-based 3D industrial manufacturing and logistical environments, I bridge the gap between abstract control logic and physical factory floors. This portfolio demonstrates my ability to design, map, and validate complex automation sequences, such as synchronized robotic assembly, multi-lane parcel sorting, and analog check-weighing arrays, under realistic operational stresses before deployment to physical hardware.
 
 
 ## Key Engineering Skills Demonstrated
